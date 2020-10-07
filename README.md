@@ -19,5 +19,5 @@ A consumer will reach their fitness goals more quickly when they track their wor
   * View the combined weight of multiple exercises on the `stats` page.
 
 ## Heroku Link
-[Heroku](https://git.heroku.com/intense-anchorage-92072.git)
+![Heroku](https://git.heroku.com/intense-anchorage-92072.git)
 
